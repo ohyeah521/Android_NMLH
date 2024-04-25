@@ -13,7 +13,7 @@ https://www.zhihuaspace.cn:8888/
 
 ![上传页面](https://raw.githubusercontent.com/ohyeah521/Android_NMLH/main/img/1.jpg)
 
-![f](分析进度日志ttps://raw.githubusercontent.com/ohyeah521/Android_NMLH/main/img/13.jpg)
+![分析进度日志](https://raw.githubusercontent.com/ohyeah521/Android_NMLH/main/img/13.jpg)
 
 ![历史记录](https://raw.githubusercontent.com/ohyeah521/Android_NMLH/main/img/2.jpg)
 
