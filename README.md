@@ -16,6 +16,8 @@ https://www.zhihuaspace.cn:8888/
 
 ![分析进度日志](https://raw.githubusercontent.com/ohyeah521/Android_NMLH/main/img/13.jpg)
 
+![取证信息收集](https://raw.githubusercontent.com/ohyeah521/Android_NMLH/main/img/14.png)
+
 ![历史记录](https://raw.githubusercontent.com/ohyeah521/Android_NMLH/main/img/2.jpg)
 
 ![静态分析](https://raw.githubusercontent.com/ohyeah521/Android_NMLH/main/img/3.jpg)
